@@ -1,0 +1,15 @@
+C:\Users\ASUS\Máy tính\PRN211\ExchangeManagement\BusinessObjects\bin\Debug\net5.0\BusinessObjects.deps.json
+C:\Users\ASUS\Máy tính\PRN211\ExchangeManagement\BusinessObjects\bin\Debug\net5.0\BusinessObjects.runtimeconfig.json
+C:\Users\ASUS\Máy tính\PRN211\ExchangeManagement\BusinessObjects\bin\Debug\net5.0\BusinessObjects.runtimeconfig.dev.json
+C:\Users\ASUS\Máy tính\PRN211\ExchangeManagement\BusinessObjects\bin\Debug\net5.0\BusinessObjects.dll
+C:\Users\ASUS\Máy tính\PRN211\ExchangeManagement\BusinessObjects\bin\Debug\net5.0\ref\BusinessObjects.dll
+C:\Users\ASUS\Máy tính\PRN211\ExchangeManagement\BusinessObjects\bin\Debug\net5.0\BusinessObjects.pdb
+C:\Users\ASUS\Máy tính\PRN211\ExchangeManagement\BusinessObjects\obj\Debug\net5.0\BusinessObjects.csproj.AssemblyReference.cache
+C:\Users\ASUS\Máy tính\PRN211\ExchangeManagement\BusinessObjects\obj\Debug\net5.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Máy tính\PRN211\ExchangeManagement\BusinessObjects\obj\Debug\net5.0\BusinessObjects.AssemblyInfoInputs.cache
+C:\Users\ASUS\Máy tính\PRN211\ExchangeManagement\BusinessObjects\obj\Debug\net5.0\BusinessObjects.AssemblyInfo.cs
+C:\Users\ASUS\Máy tính\PRN211\ExchangeManagement\BusinessObjects\obj\Debug\net5.0\BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Máy tính\PRN211\ExchangeManagement\BusinessObjects\obj\Debug\net5.0\BusinessObjects.dll
+C:\Users\ASUS\Máy tính\PRN211\ExchangeManagement\BusinessObjects\obj\Debug\net5.0\ref\BusinessObjects.dll
+C:\Users\ASUS\Máy tính\PRN211\ExchangeManagement\BusinessObjects\obj\Debug\net5.0\BusinessObjects.pdb
+C:\Users\ASUS\Máy tính\PRN211\ExchangeManagement\BusinessObjects\obj\Debug\net5.0\BusinessObjects.genruntimeconfig.cache
