@@ -13,6 +13,13 @@ namespace ExchangeManagement
 {
     public partial class Menu : Form
     {
+        private int accountId;
+
+        public void SetAccountId(int id)
+        {
+            accountId = id;
+        }
+
         public Menu()
         {
             InitializeComponent();
@@ -58,5 +65,9 @@ namespace ExchangeManagement
             }
         }
 
+        private void btn_Post_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
