@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Máy tính\\PRN211\\ExchangeManagement\\DataAccessObjects\\DataAccessObjects.csproj": {}
+    "C:\\Users\\duy\\Desktop\\PRN211\\ExchangeManagementWindowForm\\DataAccessObjects\\DataAccessObjects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Máy tính\\PRN211\\ExchangeManagement\\BusinessObjects\\BusinessObjects.csproj": {
+    "C:\\Users\\duy\\Desktop\\PRN211\\ExchangeManagementWindowForm\\BusinessObjects\\BusinessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Máy tính\\PRN211\\ExchangeManagement\\BusinessObjects\\BusinessObjects.csproj",
+        "projectUniqueName": "C:\\Users\\duy\\Desktop\\PRN211\\ExchangeManagementWindowForm\\BusinessObjects\\BusinessObjects.csproj",
         "projectName": "BusinessObjects",
-        "projectPath": "C:\\Users\\ASUS\\Máy tính\\PRN211\\ExchangeManagement\\BusinessObjects\\BusinessObjects.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Máy tính\\PRN211\\ExchangeManagement\\BusinessObjects\\obj\\",
+        "projectPath": "C:\\Users\\duy\\Desktop\\PRN211\\ExchangeManagementWindowForm\\BusinessObjects\\BusinessObjects.csproj",
+        "packagesPath": "C:\\Users\\duy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\duy\\Desktop\\PRN211\\ExchangeManagementWindowForm\\BusinessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\duy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -79,20 +79,20 @@
         }
       }
     },
-    "C:\\Users\\ASUS\\Máy tính\\PRN211\\ExchangeManagement\\DataAccessObjects\\DataAccessObjects.csproj": {
+    "C:\\Users\\duy\\Desktop\\PRN211\\ExchangeManagementWindowForm\\DataAccessObjects\\DataAccessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Máy tính\\PRN211\\ExchangeManagement\\DataAccessObjects\\DataAccessObjects.csproj",
+        "projectUniqueName": "C:\\Users\\duy\\Desktop\\PRN211\\ExchangeManagementWindowForm\\DataAccessObjects\\DataAccessObjects.csproj",
         "projectName": "DataAccessObjects",
-        "projectPath": "C:\\Users\\ASUS\\Máy tính\\PRN211\\ExchangeManagement\\DataAccessObjects\\DataAccessObjects.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Máy tính\\PRN211\\ExchangeManagement\\DataAccessObjects\\obj\\",
+        "projectPath": "C:\\Users\\duy\\Desktop\\PRN211\\ExchangeManagementWindowForm\\DataAccessObjects\\DataAccessObjects.csproj",
+        "packagesPath": "C:\\Users\\duy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\duy\\Desktop\\PRN211\\ExchangeManagementWindowForm\\DataAccessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\duy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -108,8 +108,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\ASUS\\Máy tính\\PRN211\\ExchangeManagement\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "C:\\Users\\ASUS\\Máy tính\\PRN211\\ExchangeManagement\\BusinessObjects\\BusinessObjects.csproj"
+              "C:\\Users\\duy\\Desktop\\PRN211\\ExchangeManagementWindowForm\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "C:\\Users\\duy\\Desktop\\PRN211\\ExchangeManagementWindowForm\\BusinessObjects\\BusinessObjects.csproj"
               }
             }
           }

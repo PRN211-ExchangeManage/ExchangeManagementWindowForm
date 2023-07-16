@@ -6217,23 +6217,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {},
+    "C:\\Users\\duy\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Máy tính\\PRN211\\ExchangeManagement\\ExchangeManagement\\ExchangeManagement.csproj",
+      "projectUniqueName": "C:\\Users\\duy\\Desktop\\PRN211\\ExchangeManagementWindowForm\\ExchangeManagement\\ExchangeManagement.csproj",
       "projectName": "ExchangeManagement",
-      "projectPath": "C:\\Users\\ASUS\\Máy tính\\PRN211\\ExchangeManagement\\ExchangeManagement\\ExchangeManagement.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Máy tính\\PRN211\\ExchangeManagement\\ExchangeManagement\\obj\\",
+      "projectPath": "C:\\Users\\duy\\Desktop\\PRN211\\ExchangeManagementWindowForm\\ExchangeManagement\\ExchangeManagement.csproj",
+      "packagesPath": "C:\\Users\\duy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\duy\\Desktop\\PRN211\\ExchangeManagementWindowForm\\ExchangeManagement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\duy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -6249,8 +6249,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\ASUS\\Máy tính\\PRN211\\ExchangeManagement\\Repositories\\Repositories.csproj": {
-              "projectPath": "C:\\Users\\ASUS\\Máy tính\\PRN211\\ExchangeManagement\\Repositories\\Repositories.csproj"
+            "C:\\Users\\duy\\Desktop\\PRN211\\ExchangeManagementWindowForm\\Repositories\\Repositories.csproj": {
+              "projectPath": "C:\\Users\\duy\\Desktop\\PRN211\\ExchangeManagementWindowForm\\Repositories\\Repositories.csproj"
             }
           }
         }

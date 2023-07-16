@@ -1,0 +1,17 @@
+C:\Users\duy\Desktop\PRN211\ExchangeManagementWindowForm\Repositories\bin\Debug\net5.0\Repositories.deps.json
+C:\Users\duy\Desktop\PRN211\ExchangeManagementWindowForm\Repositories\bin\Debug\net5.0\Repositories.dll
+C:\Users\duy\Desktop\PRN211\ExchangeManagementWindowForm\Repositories\bin\Debug\net5.0\Repositories.pdb
+C:\Users\duy\Desktop\PRN211\ExchangeManagementWindowForm\Repositories\bin\Debug\net5.0\BusinessObjects.dll
+C:\Users\duy\Desktop\PRN211\ExchangeManagementWindowForm\Repositories\bin\Debug\net5.0\DataAccessObjects.dll
+C:\Users\duy\Desktop\PRN211\ExchangeManagementWindowForm\Repositories\bin\Debug\net5.0\DataAccessObjects.pdb
+C:\Users\duy\Desktop\PRN211\ExchangeManagementWindowForm\Repositories\bin\Debug\net5.0\BusinessObjects.pdb
+C:\Users\duy\Desktop\PRN211\ExchangeManagementWindowForm\Repositories\obj\Debug\net5.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\duy\Desktop\PRN211\ExchangeManagementWindowForm\Repositories\obj\Debug\net5.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duy\Desktop\PRN211\ExchangeManagementWindowForm\Repositories\obj\Debug\net5.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\duy\Desktop\PRN211\ExchangeManagementWindowForm\Repositories\obj\Debug\net5.0\Repositories.AssemblyInfo.cs
+C:\Users\duy\Desktop\PRN211\ExchangeManagementWindowForm\Repositories\obj\Debug\net5.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\duy\Desktop\PRN211\ExchangeManagementWindowForm\Repositories\obj\Debug\net5.0\Repositories.csproj.CopyComplete
+C:\Users\duy\Desktop\PRN211\ExchangeManagementWindowForm\Repositories\obj\Debug\net5.0\Repositories.dll
+C:\Users\duy\Desktop\PRN211\ExchangeManagementWindowForm\Repositories\obj\Debug\net5.0\refint\Repositories.dll
+C:\Users\duy\Desktop\PRN211\ExchangeManagementWindowForm\Repositories\obj\Debug\net5.0\Repositories.pdb
+C:\Users\duy\Desktop\PRN211\ExchangeManagementWindowForm\Repositories\obj\Debug\net5.0\ref\Repositories.dll
