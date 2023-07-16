@@ -36,6 +36,10 @@
             columnHeader4 = new System.Windows.Forms.ColumnHeader();
             imageListProducts = new System.Windows.Forms.ImageList(components);
             btn_Post = new System.Windows.Forms.Button();
+            pictureBoxProduct = new System.Windows.Forms.PictureBox();
+            panelContainer = new System.Windows.Forms.Panel();
+            ((System.ComponentModel.ISupportInitialize)pictureBoxProduct).BeginInit();
+            panelContainer.SuspendLayout();
             SuspendLayout();
             // 
             // listViewProducts
@@ -43,29 +47,30 @@
             listViewProducts.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] { columnHeader1, columnHeader2, columnHeader3, columnHeader4 });
             listViewProducts.Dock = System.Windows.Forms.DockStyle.Left;
             listViewProducts.HideSelection = false;
+            listViewProducts.LargeImageList = imageListProducts;
             listViewProducts.Location = new System.Drawing.Point(0, 0);
             listViewProducts.Name = "listViewProducts";
-            listViewProducts.Size = new System.Drawing.Size(588, 450);
+            listViewProducts.Size = new System.Drawing.Size(510, 367);
             listViewProducts.TabIndex = 0;
             listViewProducts.UseCompatibleStateImageBehavior = false;
             listViewProducts.View = System.Windows.Forms.View.Details;
             // 
             // columnHeader1
             // 
-            columnHeader1.Text = "Name";
+            columnHeader1.Text = "Caption";
             // 
             // columnHeader2
             // 
-            columnHeader2.Text = "Description";
-            columnHeader2.Width = 400;
+            columnHeader2.Text = "Name";
             // 
             // columnHeader3
             // 
-            columnHeader3.Text = "Price";
+            columnHeader3.Text = "Description";
+            columnHeader3.Width = 300;
             // 
             // columnHeader4
             // 
-            columnHeader4.Text = "Quantity";
+            columnHeader4.Text = "price";
             // 
             // imageListProducts
             // 
@@ -75,7 +80,7 @@
             // 
             // btn_Post
             // 
-            btn_Post.Location = new System.Drawing.Point(594, 12);
+            btn_Post.Location = new System.Drawing.Point(628, 385);
             btn_Post.Name = "btn_Post";
             btn_Post.Size = new System.Drawing.Size(75, 23);
             btn_Post.TabIndex = 1;
@@ -83,16 +88,36 @@
             btn_Post.UseVisualStyleBackColor = true;
             btn_Post.Click += btn_Post_Click;
             // 
+            // pictureBoxProduct
+            // 
+            pictureBoxProduct.Location = new System.Drawing.Point(549, 3);
+            pictureBoxProduct.Name = "pictureBoxProduct";
+            pictureBoxProduct.Size = new System.Drawing.Size(293, 222);
+            pictureBoxProduct.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            pictureBoxProduct.TabIndex = 2;
+            pictureBoxProduct.TabStop = false;
+            // 
+            // panelContainer
+            // 
+            panelContainer.Controls.Add(pictureBoxProduct);
+            panelContainer.Controls.Add(listViewProducts);
+            panelContainer.Location = new System.Drawing.Point(12, 12);
+            panelContainer.Name = "panelContainer";
+            panelContainer.Size = new System.Drawing.Size(924, 367);
+            panelContainer.TabIndex = 3;
+            // 
             // Menu
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            ClientSize = new System.Drawing.Size(1348, 450);
+            ClientSize = new System.Drawing.Size(1091, 432);
+            Controls.Add(panelContainer);
             Controls.Add(btn_Post);
-            Controls.Add(listViewProducts);
             Name = "Menu";
             Text = "Menu";
             Load += Menu_Load;
+            ((System.ComponentModel.ISupportInitialize)pictureBoxProduct).EndInit();
+            panelContainer.ResumeLayout(false);
             ResumeLayout(false);
         }
 
@@ -105,5 +130,7 @@
         private System.Windows.Forms.ColumnHeader columnHeader4;
         private System.Windows.Forms.ImageList imageListProducts;
         private System.Windows.Forms.Button btn_Post;
+        private System.Windows.Forms.PictureBox pictureBoxProduct;
+        private System.Windows.Forms.Panel panelContainer;
     }
 }

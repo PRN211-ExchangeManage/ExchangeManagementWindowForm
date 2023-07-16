@@ -39,6 +39,8 @@
             btn_image = new System.Windows.Forms.Button();
             lable = new System.Windows.Forms.Label();
             txt_image = new System.Windows.Forms.TextBox();
+            label4 = new System.Windows.Forms.Label();
+            txt_caption = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -134,11 +136,29 @@
             txt_image.Size = new System.Drawing.Size(202, 23);
             txt_image.TabIndex = 11;
             // 
+            // label4
+            // 
+            label4.AutoSize = true;
+            label4.Location = new System.Drawing.Point(867, 359);
+            label4.Name = "label4";
+            label4.Size = new System.Drawing.Size(49, 15);
+            label4.TabIndex = 12;
+            label4.Text = "Caption";
+            // 
+            // txt_caption
+            // 
+            txt_caption.Location = new System.Drawing.Point(963, 351);
+            txt_caption.Name = "txt_caption";
+            txt_caption.Size = new System.Drawing.Size(100, 23);
+            txt_caption.TabIndex = 13;
+            // 
             // PostProduct
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             ClientSize = new System.Drawing.Size(1210, 653);
+            Controls.Add(txt_caption);
+            Controls.Add(label4);
             Controls.Add(txt_image);
             Controls.Add(lable);
             Controls.Add(btn_image);
@@ -170,5 +190,7 @@
         private System.Windows.Forms.Button btn_image;
         private System.Windows.Forms.Label lable;
         private System.Windows.Forms.TextBox txt_image;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.TextBox txt_caption;
     }
 }
