@@ -1,0 +1,15 @@
+C:\Users\duy\Desktop\PRN211\ExchangeManagementWindowForm\DataAccessObjects\bin\Debug\net5.0\DataAccessObjects.deps.json
+C:\Users\duy\Desktop\PRN211\ExchangeManagementWindowForm\DataAccessObjects\bin\Debug\net5.0\DataAccessObjects.dll
+C:\Users\duy\Desktop\PRN211\ExchangeManagementWindowForm\DataAccessObjects\bin\Debug\net5.0\DataAccessObjects.pdb
+C:\Users\duy\Desktop\PRN211\ExchangeManagementWindowForm\DataAccessObjects\bin\Debug\net5.0\BusinessObjects.dll
+C:\Users\duy\Desktop\PRN211\ExchangeManagementWindowForm\DataAccessObjects\bin\Debug\net5.0\BusinessObjects.pdb
+C:\Users\duy\Desktop\PRN211\ExchangeManagementWindowForm\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.csproj.AssemblyReference.cache
+C:\Users\duy\Desktop\PRN211\ExchangeManagementWindowForm\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duy\Desktop\PRN211\ExchangeManagementWindowForm\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.AssemblyInfoInputs.cache
+C:\Users\duy\Desktop\PRN211\ExchangeManagementWindowForm\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.AssemblyInfo.cs
+C:\Users\duy\Desktop\PRN211\ExchangeManagementWindowForm\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.csproj.CoreCompileInputs.cache
+C:\Users\duy\Desktop\PRN211\ExchangeManagementWindowForm\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.csproj.CopyComplete
+C:\Users\duy\Desktop\PRN211\ExchangeManagementWindowForm\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.dll
+C:\Users\duy\Desktop\PRN211\ExchangeManagementWindowForm\DataAccessObjects\obj\Debug\net5.0\refint\DataAccessObjects.dll
+C:\Users\duy\Desktop\PRN211\ExchangeManagementWindowForm\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.pdb
+C:\Users\duy\Desktop\PRN211\ExchangeManagementWindowForm\DataAccessObjects\obj\Debug\net5.0\ref\DataAccessObjects.dll
