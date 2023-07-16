@@ -9,11 +9,13 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 using Microsoft.Data.SqlClient;
+using BusinessObjects;
 
 namespace ExchangeManagement
 {
     public partial class LoginPage : Form
     {
+        public int LoggedInAccountId { get; private set; }
         public LoginPage()
         {
             InitializeComponent();
@@ -46,19 +48,32 @@ namespace ExchangeManagement
                     if (reader.Read())
                     {
                         // Đăng nhập thành công
-                        MessageBox.Show("Đăng nhập thành công!");
-                        PostProduct form2 = new PostProduct();
-                        form2.Show();
-                        this.Hide();
-                    }
-                    else
-                    {
-                        // Sai tên đăng nhập hoặc mật khẩu
-                        MessageBox.Show("Sai tên đăng nhập hoặc mật khẩu!");
-                        txt_username.Clear();
-                        txt_password.Clear();
+                        object idValue = reader["Id"];
 
-                        txt_username.Focus();
+                        if (idValue != DBNull.Value)
+                        {
+                            int accountId = Convert.ToInt32(idValue);
+                            MessageBox.Show("Đăng nhập thành công!");
+
+                            LoggedInAccountId = accountId; // Gán giá trị cho biến LoggedInAccountId
+
+                            Menu form2 = new Menu();
+                            form2.SetAccountId(accountId); // Truyền giá trị hoặc giá trị mặc định nếu accountId là null
+                            form2.Show();
+
+                            this.Hide();
+                        }
+                        else
+                        {
+                            // Xử lý trường hợp cột "[Id]" là DBNull
+                            int accountId = -1; // Giá trị mặc định cho accountId (hoặc bạn có thể sử dụng 0 hoặc giá trị khác tuỳ ý)
+                            MessageBox.Show("Lỗi: Tài khoản không có ID hoặc ID không hợp lệ.");
+
+                            // Tiếp tục xử lý, ví dụ như không cho phép đăng nhập và xóa thông tin tài khoản
+                            txt_username.Clear();
+                            txt_password.Clear();
+                            txt_username.Focus();
+                        }
                     }
 
                     reader.Close();

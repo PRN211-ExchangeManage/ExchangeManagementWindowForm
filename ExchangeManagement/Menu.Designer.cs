@@ -35,6 +35,7 @@
             columnHeader3 = new System.Windows.Forms.ColumnHeader();
             columnHeader4 = new System.Windows.Forms.ColumnHeader();
             imageListProducts = new System.Windows.Forms.ImageList(components);
+            btn_Post = new System.Windows.Forms.Button();
             SuspendLayout();
             // 
             // listViewProducts
@@ -72,11 +73,22 @@
             imageListProducts.ImageSize = new System.Drawing.Size(16, 16);
             imageListProducts.TransparentColor = System.Drawing.Color.Transparent;
             // 
+            // btn_Post
+            // 
+            btn_Post.Location = new System.Drawing.Point(594, 12);
+            btn_Post.Name = "btn_Post";
+            btn_Post.Size = new System.Drawing.Size(75, 23);
+            btn_Post.TabIndex = 1;
+            btn_Post.Text = "Post";
+            btn_Post.UseVisualStyleBackColor = true;
+            btn_Post.Click += btn_Post_Click;
+            // 
             // Menu
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             ClientSize = new System.Drawing.Size(1348, 450);
+            Controls.Add(btn_Post);
             Controls.Add(listViewProducts);
             Name = "Menu";
             Text = "Menu";
@@ -92,5 +104,6 @@
         private System.Windows.Forms.ColumnHeader columnHeader3;
         private System.Windows.Forms.ColumnHeader columnHeader4;
         private System.Windows.Forms.ImageList imageListProducts;
+        private System.Windows.Forms.Button btn_Post;
     }
 }
